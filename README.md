@@ -7,7 +7,7 @@ Now I've taken all that to build the world's best **earned media** platform usin
 - 👨🏻‍💻 I'm the [CTO at Hypefactors](https://hypefactors.com/da/investor-3/)
 - 🧑🏿‍🤝‍🧑🏾 I love building amazing tech products with great teams
 - ⚔️ My weapons of choice are **Scala**, **probabilistic programming** and **transformer ML models**
-- ⌨️ Fun fact: I type on a [Kinesis Advantage](https://kinesis-ergo.com/shop/advantage2-dvorak/) with a custom [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) layout.
+- ⌨️ Fun fact: I type on a [Kinesis Advantage](https://kinesis-ergo.com/shop/advantage2-dvorak/) with a custom [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) layout. I've switched out its factory firmware with a hard-wired Arduino Pro Micro and [QMK](https://qmk.fm/). Check out my [mod](https://github.com/qmk/qmk_firmware/pull/9944/). 
 
 ### 📝 Get to know me more
 
