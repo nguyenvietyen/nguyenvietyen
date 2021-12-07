@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Viet
 
-I specialized on engineering 🛰️ and 🚀. Especially the ingenious kind with long mission spans, fault-tolerant autonomy and probabilistically analyzed self-healing subsystems. 
+I specialized on engineering spacecraft software (🛰️ and 🚀). Especially the ingenious kind with long mission spans, fault-tolerant autonomy and probabilistically analyzed self-healing subsystems. 
 
 Now I've taken all that to build the world's best **earned media** platform using distributed big data, probabilistic AI and SaaS principles. 
 
@@ -11,7 +11,7 @@ Now I've taken all that to build the world's best **earned media** platform usin
 
 ### 📝 Get to know me more
 
-* I was [recently interviewed](https://blog.twingly.com/2020/07/03/the-biggest-challenge-is-to-master-both-the-ai-technologies/) by Twingly
+* A recent article on our MLOps at [Amazon's Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/simplified-mlops-with-deep-java-library/)
 * I'm active on [LinkedIn](https://www.linkedin.com/in/nguyenvietyen/)
 * I have a personal [home page](https://www.nguyenvietyen.com/)
 * I used to be an [academic](https://scholar.google.com/citations?user=jka-B40AAAAJ&hl=en)
