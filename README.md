@@ -1,12 +1,10 @@
 ## 👋 Hey, I'm Viet
 
-I specialized on engineering spacecraft software (🛰️ and 🚀). Especially the ingenious kind with long mission spans, fault-tolerant autonomy and probabilistically analyzed self-healing subsystems. 
+I'm neck deep into long-running autonomous AI (e.g. OpenClaw, Langchain and Langgraph) with a background in engineering spacecraft software (🛰️ and 🚀). Especially the ingenious kind with self-healing autonomy, long mission spans and fault-tolerance.
 
-Now I've taken all that to build the world's best **earned media** platform using distributed big data, probabilistic AI and SaaS principles. 
-
-- 👨🏻‍💻 I'm the [CTO at Hypefactors](https://hypefactors.com/da/investor-3/)
+###
 - 🧑🏿‍🤝‍🧑🏾 I love building amazing tech products with great teams
-- ⚔️ My weapons of choice are **Scala**, **probabilistic programming**, **theorem proving**, **linear programming** and **transformer ML models**
+- ⚔️ My weapons of choice are **Scala**, **LLM models** (especially local and open source ones like gpt-oss:20b, qwen, kimi k2.5 and minimax m2.5). Also not shy using linear programming, theorem provers and constraint solvers.
 - ⌨️ Fun fact: I type on a [Kinesis Advantage](https://kinesis-ergo.com/shop/advantage2-dvorak/) with a custom [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) layout. I've switched out its factory firmware with a hard-wired Arduino Pro Micro and [QMK](https://qmk.fm/). Check out my [mod](https://github.com/qmk/qmk_firmware/pull/9944/). 
 
 ### 📝 Get to know me more
